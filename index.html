@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kompilator</title>
     <link rel="stylesheet" href="css/style.css">
+    <style id="stylCSS"></style>
 </head>
 <body>
     <main>
@@ -16,13 +17,13 @@
                 <section class="html">
                     <span>HTML</span>
                     <hr>
-                    <textarea cols="30" rows="10" placeholder="Wpisz swój kod.."></textarea>
+                    <textarea cols="30" rows="10" placeholder="Wpisz swój kod.." onkeyup="kompilujHTML(this)"></textarea>
                 </section>
         
                 <section class="css">
                     <span>CSS</span>
                     <hr>
-                    <textarea cols="30" rows="10" placeholder="Wpisz swój kod.."></textarea> 
+                    <textarea cols="30" rows="10" placeholder="Wpisz swój kod.." onkeyup="kompilujCSS(this)"></textarea> 
                 </section>
             </div>
             
