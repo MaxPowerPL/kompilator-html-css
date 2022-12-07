@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Nerko+One&family=Roboto+Mono:wght@100;200;300;400;500;600;700&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nerko One', cursive;
+}
+
+body
+{
+    width: 100%;
+    height: 100vh;
+    background: #161616;
+}
+
+main
+{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 15px 0;
+}
+
+main > span
+{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 8px;
+    text-shadow: 2px 2px 4px #000000; 
+    animation: rainbow 10s infinite; 
+}
+@keyframes rainbow
+{	0%{color: orange;}	
+   10%{color: purple;}	
+     20%{color: red;}
+   30%{color: CadetBlue;}
+     40%{color: yellow;}
+   50%{color: coral;}
+     60%{color: green;}
+   70%{color: cyan;}
+   80%{color: DeepPink;}
+   90%{color: DodgerBlue;}
+     100%{color: orange;}
+}
+
+main > .zawartosc
+{
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px 0;
+}
+
+main > .zawartosc .kody
+{
+    display: flex;
+    gap: 0 300px;
+}
+
+main > .zawartosc > .kody > .html,
+main > .zawartosc > .kody > .css
+{
+    width: 350px;
+    height: 550px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 4px solid #5f9fff;
+    border-radius: 5px;
+    background: #ddd;
+    overflow: hidden;
+    font-weight: 700;
+    font-size: 22px;
+}
+
+main > .zawartosc > .kody > .html > span,
+main > .zawartosc > .kody > .css > span,
+main > .zawartosc > .wynik > span
+{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+
+main > .zawartosc > .kody > .html > hr,
+main > .zawartosc > .kody > .css > hr,
+main > .zawartosc > .wynik > hr
+{
+    width: 100%;
+}
+
+main > .zawartosc > .kody > .html > textarea,
+main > .zawartosc > .kody > .css > textarea
+{
+    width: 94%;
+    height: 100%;
+    resize: none;
+    outline: none;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+main > .zawartosc > .wynik
+{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 4px solid #5f9fff;
+    border-radius: 5px;
+    background: #ddd;
+    overflow: hidden;
+    font-weight: 700;
+    font-size: 22px;
+}
