@@ -2,7 +2,8 @@
 
 Prosty, przeglądarkowy edytor kodu HTML i CSS z podglądem na żywo.
 
-![Podgląd aplikacji](<img width="1874" height="955" alt="image" src="https://github.com/user-attachments/assets/685b06f2-bf92-4425-8097-77992fcec886" />)
+<img width="1873" height="950" alt="image" src="https://github.com/user-attachments/assets/79706524-a674-4232-b34b-a0eb7a91fd20" />
+
 
 ## 📖 O projekcie
 
