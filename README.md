@@ -8,7 +8,7 @@
 
   <p>
     <a href="https://github.com/MaxPowerPL/kompilator-html-css/tags">
-      <img src="https://img.shields.io/github/v/tag/MaxPowerPL/kompilator-html-css?label=VERSION&style=for-the-badge&color=238636" alt="Wersja" />
+      <img src="https://img.shields.io/github/v/release/MaxPowerPL/kompilator-html-css?&include_prereleases&label=VERSION&style=for-the-badge&color=238636" alt="Wersja" />
     </a>
     <a href="https://maxpowerpl.github.io/kompilator-html-css/">
       <img src="https://img.shields.io/badge/Status-Archived-yellow?style=for-the-badge" alt="Status" />
