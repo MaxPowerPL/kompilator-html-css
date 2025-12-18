@@ -17,10 +17,10 @@
       <img src="https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     </a>
     <a href="https://www.w3.org/Style/CSS/">
-      <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css&logoColor=white" alt="CSS3" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
     </a>
     <a href="https://github.com/MaxPowerPL/kompilator-html-css/stargazers">
       <img src="https://img.shields.io/github/stars/MaxPowerPL/kompilator-html-css?style=for-the-badge&color=yellow" alt="Stars" />
